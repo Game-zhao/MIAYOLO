@@ -1,0 +1,4 @@
+train: /data1/zhaogan/datasets/YoloV5_dataset/train
+val: /data1/zhaogan/datasets/YoloV5_dataset/val
+nc: 6
+names: ['Hut/Tent', 'Shed', 'Building', 'Aircraft Hangar', 'Damaged Building', 'Construction Site']

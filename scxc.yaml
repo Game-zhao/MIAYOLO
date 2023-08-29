@@ -1,0 +1,7 @@
+path: /home/zhaogan/SCXC  
+train: train.txt  
+val: val.txt  
+#test: test-dev2017.txt  
+# Classes
+nc: 3  # number of classes
+names: ['sicktree1', 'sicktree2', 'notree']  # class names

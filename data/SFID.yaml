@@ -1,0 +1,4 @@
+train: /home/zhaogan/datasets/SFID_Yolo/train
+val: /home/zhaogan/datasets/SFID_Yolo/val
+nc: 2
+names: ['insulator', 'broken']

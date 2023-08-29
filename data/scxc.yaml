@@ -1,0 +1,4 @@
+train: /home/zhaogan/SCXCv2.0_new/train
+val: /home/zhaogan/SCXCv2.0_new/val
+nc: 2
+names: ['sicktree', 'notree']

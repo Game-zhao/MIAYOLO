@@ -1,0 +1,4 @@
+train: /home/zhaogan/datasets/STNPLAD/train
+val: /home/zhaogan/datasets/STNPLAD/val
+nc: 5
+names: ['tower', 'insulator', 'spacer', 'plate', 'damper']
