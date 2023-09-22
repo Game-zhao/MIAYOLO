@@ -1,4 +1,4 @@
-# MEXYOLO: Multi-Experts and Intra-class Aggregation Assisted Newly Constructed Building Detection in Remote Sensing Imagery
+# MIAYOLO: Multi-Expert and Intra-Class Aggregation Assisted Suburban Building Detection in Unmanned Aerial Vehicle Imagery
 ⭐ This code has been completely released ⭐ 
 
 If our code is helpful to you, please cite:
