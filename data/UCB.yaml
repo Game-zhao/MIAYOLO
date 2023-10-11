@@ -1,0 +1,4 @@
+train: ./datasets/UCB/train
+val: ./datasets/UCB/val
+nc: 2
+names: ['Common Buildings', 'Buildings under Construction']

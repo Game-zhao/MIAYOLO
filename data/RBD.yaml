@@ -1,4 +1,0 @@
-train: ./datasets/RBD/train
-val: ./datasets/RBD/val
-nc: 2
-names: ['Common Buildings', 'Buildings under Construction']
