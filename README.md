@@ -8,8 +8,6 @@ If our code is helpful to you, please cite:
 pip install -r requirements.txt
 ```
 ## Train
-
-## Begin to train 
 <!--
 ```python
 python train.py --cfg models/MEXYOLO.yaml
@@ -21,7 +19,6 @@ new fusion method MF
 python train.py --cfg models/MEXYOLO.yaml
 ```
 ## Test
-## Begin to test
 <!--
 ```python
 python detect.py --weights weights/MEXYOLO.pt 
