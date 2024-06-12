@@ -1,4 +1,4 @@
-# MIAYOLO: Multi-Expert and Intra-Class Aggregation Assisted Suburban Building Detection in Unmanned Aerial Vehicle Imagery
+# MIAYOLO: Multiexpert and Intraclass Aggregation-Assisted Suburban Building Detection in Unmanned Aerial Vehicle Imagery
 ⭐ This code has been completely released ⭐ 
 
 <p align="center"> <img src="model.jpg" width="80%"> </p>
